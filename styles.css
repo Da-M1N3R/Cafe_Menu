@@ -1,0 +1,57 @@
+body {
+    background-image: url(https://i.pinimg.com/564x/2f/f4/92/2ff4925ed20847e4b0cf530db050dc51.jpg);
+    background-size: cover;
+}
+.menu {
+    width: 80%;
+    background-color: yellow;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    border-radius: 100px;
+    opacity: 90%;
+}
+h1 {
+    font-size: 50px;
+}
+p {
+    font-family: cursive;
+}
+h1, .since, h2 {
+    text-align: center;
+    font-family: cursive;
+}
+.since {
+    font-style: italic;
+    margin-top: -20px;
+}
+hr {
+    height: 5px;
+    background-color: black;
+    border-color: black;
+}
+
+.item p{
+    display: inline-block;
+    margin-bottom: 10px;
+    font-family: cursive;
+}
+
+.numbering {
+    font-style: italic;
+    padding-right: 30px;
+}
+.flavor {
+    text-align: left;
+    width: 50%;
+}
+.price {
+    text-align: right;
+    font-style: bold;
+    width: 29%;
+    padding-left: 30px;
+}
+.punchline, .location {
+    text-align: center;
+}
